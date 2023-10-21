@@ -29,7 +29,7 @@
     <h3>🏅 Baekjoon Profile 🏅</h3>  
   </div>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsb3652)](https://solved.ac/jsb3652/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=motsoo)](https://solved.ac/motsoo/)
   
   </div>
 
