@@ -1,7 +1,7 @@
 ## Hi! I'm Subhin👋
 ----
 <p>Hi, I'm an undergraduate student constantly challenging myself to provide a better experience for users and reach my goals!</p>
-<p>안녕하세요! 사용자에게 더 나은 환경을 제공하고 목표에 끊임없이 도전하는 학부생입니다!</p>
+<p>안녕하세요! 속도는 느리지만 원리를 깊게 파고들고 탐구를 끊임없이 하고싶은 개발지망생 입니다!</p>
 <br>
 <div>
   <div>
