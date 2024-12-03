@@ -1,11 +1,7 @@
-## Hi! I'm Subhin👋
-----
-<p>Hi, I'm an undergraduate student constantly challenging myself to provide a better experience for users and reach my goals!</p>
-<p>안녕하세요! 속도는 느리지만 원리를 깊게 파고들고 탐구를 끊임없이 하고싶은 개발지망생 입니다!</p>
 <br>
 <div>
   <div>
-    <h3>🪄 Stack 🪄</h3>
+    <h3>🪄 Skill</h3>
   </div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
